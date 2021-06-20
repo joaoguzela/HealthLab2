@@ -1,0 +1,10 @@
+br\unibh\sdm\controller\AgendamentoController.class
+br\unibh\sdm\repository\AgendamentoRepository.class
+br\unibh\sdm\negocio\AgendamentoServices.class
+br\unibh\sdm\controller\RelatorioExameIncialController.class
+br\unibh\sdm\Application.class
+br\unibh\sdm\repository\RelatorioInicialRepository.class
+br\unibh\sdm\entidades\RelatorioExames.class
+br\unibh\sdm\negocio\RelatorioExamesServices.class
+br\unibh\sdm\entidades\AgendamentoExames.class
+br\unibh\sdm\SwaggerConfiguration.class
